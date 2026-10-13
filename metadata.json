@@ -1,0 +1,8 @@
+{
+  "name": "Remix Personal Growth Dashboard 2026 — Excel Interactive",
+  "description": "Interactive 2026 growth tracker and Excel generator for daily habits, weekly \u0026 quarterly goals, IoT projects, CCNA networking, Quran memorization, microstock portfolio, and Google Sheets financial tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
